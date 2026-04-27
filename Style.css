@@ -1,5 +1,42 @@
-* {
+* { 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    line-height:1.6;
+    background-colour: white;
 }
+title{
+    margin:0;
+    font-style:michroma;
+    font-size:16px;
+    font-colour: blue;
+}
+
+h1{
+    margin:0;
+    font-style:saira;
+    font-colour: black;
+    font-size:12px;
+}
+
+h2{
+    margin:0;
+    font-style:saira;
+    font-color:black;
+    font-size:10px;
+}
+
+h3{
+    margin:0;
+    font-style:saira;
+    font-colour: black;
+    font-size:10px;
+}
+h4{
+    margin:0;
+    font-style:saira;
+    font-color:black;
+    font-size:10px;
+}
+email{
+    font-colour: green;
